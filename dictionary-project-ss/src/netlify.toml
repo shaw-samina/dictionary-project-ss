@@ -1,0 +1,4 @@
+[build]
+  base = "dictionary-project-ss"
+  command = "npm run build"
+  publish = "dictionary-project-ss/dist"
