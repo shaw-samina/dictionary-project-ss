@@ -1,0 +1,11 @@
+.Photos img {
+  border-radius: 6px;
+  margin-bottom: 20px;
+  width: 80%;
+  object-fit: cover;
+  transition: transform 0.2s ease-in-out;
+}
+
+.Photos img:hover {
+  transform: scale(1.03);
+}

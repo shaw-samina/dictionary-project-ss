@@ -1,3 +1,16 @@
+.Dictionary section {
+  box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
+  text-align: center;
+  margin-top: 10px;
+  background-color: rgb(252, 248, 252);
+  border-radius: 6px;
+}
+
 .search-box {
-  margin: 30px 5px;
+  margin: 20px 5px;
+  border-radius: solid 6px rgb(164, 164, 194) 6px;
+}
+
+.Dictionary button {
+  border-radius: 6px;
 }
